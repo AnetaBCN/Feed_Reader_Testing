@@ -1,15 +1,12 @@
-#Udacity Front-end Development Nanodegree: Feed Reader Testing
+# Udacity Front-end Development Nanodegree: Feed Reader Testing
 
-#Google Scholarship
+# Google Scholarship
 
 ## Table of Contents
 
 * [1. Introduction](#introduction)
-* [2. Arcade Game Clone: how does it work?](#howtoplay)
-* [2.1. Basic functionalities](#basicfunctionalities)
-* [2.2. Additional functionalities](#additionalfunctionalities)
-* [3. Arcade Game Clone: how to run it?](#howtorun)
-* [4. Contributing](#contributing)
+* [2. Feed Reader Testing: how does it work?](#howtoplay)
+* [3. Contributing](#contributing)
 
 ## 1. Introduction
 This projects is a result of an assignment in a Udacity course for a front-end developers. In this project is given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! The objective of a project is to deliver the Jasmine testing script.
