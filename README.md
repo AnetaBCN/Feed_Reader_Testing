@@ -22,7 +22,7 @@ The length of the URL´s elements and names cannot be equal to 0.
 The test is accessible in .../jasmine/spec/feedreader.js
 To run it, open index.html.
 
-##3. Contributing
+## 3. Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
